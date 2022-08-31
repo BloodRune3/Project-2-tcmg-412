@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9715da98-3e76-433e-a27f-e80e42d6a94d" name="Changes" comment="" />
+    <list default="true" id="9715da98-3e76-433e-a27f-e80e42d6a94d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,7 +35,7 @@
       <recent name="C:\Users\jacob\Desktop\412 website\Dev-production-412.github.io" />
     </key>
   </component>
-  <component name="RunManager" selected="Makefile Target.github">
+  <component name="RunManager" selected="Python.publishconf">
     <configuration name="github" type="MAKEFILE_TARGET_RUN_CONFIGURATION" factoryName="Makefile" temporary="true">
       <makefile filename="$PROJECT_DIR$/Makefile" target="github" workingDirectory="" arguments="">
         <envs />
@@ -84,7 +86,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Makefile Target.github" />
         <item itemvalue="Python.tasks" />
         <item itemvalue="Python.publishconf" />
       </list>
@@ -100,6 +101,9 @@
       <updated>1661958856409</updated>
     </task>
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.configurationType" implementationName="MAKEFILE_TARGET_RUN_CONFIGURATION" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
