@@ -2,45 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9715da98-3e76-433e-a27f-e80e42d6a94d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/content/pages/About" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/content/pages/Contact" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/archives.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/authors.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/fonts.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/main.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/pygment.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/reset.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/typogrify.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/css/wide.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.eot" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.ttf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/fonts/font.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/github.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/rss.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
