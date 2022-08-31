@@ -1,4 +1,23 @@
-nav{
+*{
+    margin: auto;
+    text-align: center;
+
+}
+
+h1{
+    font-size: 85px;
+}
+
+h2{
+    font-size: 40px;
+}
+
+.center{
     margin: auto;
 }
 
+nav li{
+    font-size: 30px;
+    display: inline;
+    padding: 30px
+}
