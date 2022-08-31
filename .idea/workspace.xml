@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9715da98-3e76-433e-a27f-e80e42d6a94d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/content/pages/About" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/content/pages/Contact" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/archives.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/authors.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/categories.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/pygment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/reset.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/typogrify.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/css/wide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/Yanone_Kaffeesatz_400.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/fonts/font.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/aboutme.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/bitbucket.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/delicious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/facebook.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/github.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/gitorious.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/gittip.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/google-groups.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/google-plus.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/hackernews.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/lastfm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/linkedin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/reddit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/rss.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/slideshare.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/speakerdeck.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/stackoverflow.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/twitter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/vimeo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/output/theme/images/icons/youtube.png" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E7uHTX3AEzLar0OGNeOXUDs3BG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="Python.tasks">
+    <configuration name="pelicanconf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dev-production-412.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pelicanconf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="publishconf" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dev-production-412.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/publishconf.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tasks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Dev-production-412.github.io" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tasks.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.tasks" />
+        <item itemvalue="Python.publishconf" />
+        <item itemvalue="Python.pelicanconf" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9715da98-3e76-433e-a27f-e80e42d6a94d" name="Changes" comment="" />
+      <created>1661958856409</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661958856409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
