@@ -13,7 +13,7 @@
 }
 
 .center{
-    background: url(/css/img/techbkg.jpg"), #7cc28d;
+    background: url("https://github.com/BloodRune3/Dev-production-412/blob/main/css/img/techbkg.jpg"), #7cc28d;
     background-size: 80%;
     background-repeat: repeat-y;
     background-attachment: fixed;
