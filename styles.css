@@ -13,7 +13,7 @@
 }
 
 .center{
-    background: url("https://github.com/BloodRune3/Dev-production-412/blob/main/css/img/techbkg.jpg"), #7cc28d;
+    background: url("css/img/techbkg.jpg"), #7cc28d;
     background-size: 80%;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -69,10 +69,10 @@
 }
 
 .footer{
-    position: absolute;
+    position: relative;
     bottom: 0;
-    width: 70%;
+    width: 100%;
     height: 2.5rem;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 100px;
 }
