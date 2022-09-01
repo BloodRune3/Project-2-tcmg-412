@@ -1,10 +1,15 @@
+@import url('https://fonts.googleapis.com/css?family=Bungee Shade');
+
 *{
     margin: auto;
     text-align: center;
+    background-color: #7cc28d;
 
 }
 
 h1{
+    padding-bottom: 20px;
+    font-family: "Bungee Shade";
     font-size: 85px;
 }
 
@@ -20,4 +25,24 @@ nav li{
     font-size: 30px;
     display: inline;
     padding: 30px
+}
+
+.main-body{
+
+}
+
+#page-container{
+    position: relative;
+    min-height: 100vh;
+}
+
+#content-wrap{
+    padding-bottom: 2.5rem;
+}
+
+#footer{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 2.5rem;
 }
