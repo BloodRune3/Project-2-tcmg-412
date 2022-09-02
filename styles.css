@@ -76,3 +76,21 @@
     text-align: center;
     padding-top: 100px;
 }
+
+.image{
+    width: 300px;
+    justify-content: center;
+}
+
+.name{
+    font-family: Arial, serif;
+    font-weight: bold;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    gap: 50px;
+    margin: 110px;
+}
