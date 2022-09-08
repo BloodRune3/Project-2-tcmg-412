@@ -14,11 +14,10 @@
 }
 
 .center{
-    background: url("css/img/techbkg.jpg"), #500000;
-    background-size: 80%;
-    background-repeat: repeat-y;
+    background: url("css/img/atm.png"), #ffffff;
     background-attachment: fixed;
     background-position: center;
+    background-size: 100px;
 }
 
 .solid-color {
@@ -37,6 +36,7 @@
 .page-title{
     font-size: 40px;
     padding-top: 20px;
+    color: #ffffff;
 }
 
 .pagelink li{
@@ -84,9 +84,11 @@
     width: 100%;
     height: 2.5rem;
     text-align: center;
-    padding-top: 100px;
+    padding-top: 20px;
     font-weight: bolder;
     font-size: xx-large;
+    color: #ffffff;
+    padding-bottom: 30px;
 }
 
 .image{
@@ -98,6 +100,7 @@
 .name{
     font-family: Arial, serif;
     font-weight: bold;
+    color: #ffffff;
 }
 
 .row{
@@ -118,6 +121,7 @@
 
 .txt{
     padding-inline: 100px;
+    color: #ffffff;
 }
 
 .resume{
