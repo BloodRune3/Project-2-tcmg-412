@@ -10,10 +10,11 @@
     font-family: "Bungee Shade", serif;
     font-size: 500%;
     background-color: transparent;
+    color: #ffffff;
 }
 
 .center{
-    background: url("css/img/techbkg.jpg"), #7cc28d;
+    background: url("css/img/techbkg.jpg"), #500000;
     background-size: 80%;
     background-repeat: repeat-y;
     background-attachment: fixed;
@@ -21,7 +22,7 @@
 }
 
 .solid-color {
-    background-color: #7cc28d;
+    background-color: #500000;
     margin-inline: 15%;
     margin-top: 0;
     border-radius: 20px;
@@ -29,7 +30,7 @@
 }
 
 .solid-color footer{
-    background-color: #7cc28d;
+    background-color: inherit;
     border-radius: 15px;
 }
 
@@ -48,8 +49,8 @@
     list-style: none;
 }
 
-.button{
-    background-color: #659c72;
+.button {
+    background-color: #ffffff;
     text-decoration: none;
     color: white;
     padding: 15px;
@@ -58,6 +59,13 @@
 .button:hover{
     background-color: #406348;
     transition: .5s;
+}
+
+.button a{
+    color: inherit;
+    text-decoration: inherit;
+    background-color: inherit;
+    font-size: xx-large;
 }
 
 .main-body{
